@@ -15,4 +15,4 @@
 |7|git branch -M main|git branch -M main|-|
 |8|git remote add origin|git remote add origin|-|
 |9|git push -u origin main|git push -u origin main|git push -u origin main|
-|Usage<br />(Pas de guillemet !)|`gnp folderName`|`gap repositoryName`|`gpp commitMessage`|
+|**Usage**<br />(Pas de guillemet !)|`gnp folderName`|`gap repositoryName`|`gpp commitMessage`|
